@@ -96,7 +96,7 @@ def dns_dynx():
     wait_for_enter()
 
 # ===========================================
-# UNBOUND DNS
+# UNBOUNDDNS 
 # ===========================================
 def setup_unbound_advanced():
     clear_screen()
@@ -138,7 +138,7 @@ def setup_unbound_advanced():
     wait_for_enter()
 
 # ===========================================
-# UPTIME KUMA
+# UPTIMEKUMA monitoring
 # ===========================================
 def install_uptime_kuma():
     clear_screen()
@@ -229,7 +229,7 @@ services:
     wait_for_enter()
 
 # ===========================================
-# NGINX
+# NGINX webserver
 # ===========================================
 def install_nginx():
     clear_screen()
@@ -254,7 +254,7 @@ def install_nginx():
     wait_for_enter()
 
 # ===========================================
-# OTHER TOOLS
+# OTHER one TOOLS
 # ===========================================
 def speed_test():
     clear_screen()
@@ -309,12 +309,12 @@ def disable_ping():
     wait_for_enter()
 
 # ===========================================
-# MAIN MENU
+#  MENU
 # ===========================================
 def main_menu():
     while True:
         clear_screen()
-        print("=== Ubuntu Server Tool v2.0 ===\n")
+        print("=== Helpbox ===\n")
         print("1. DNS Settings")
         print("2. Speed Test (bench.sh)")
         print("3. CPU Info")
