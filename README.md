@@ -21,5 +21,8 @@
 
 ### **روش 1: خودکار (1 خط)**
 ```bash
-curl -fsSL https://raw.githubusercontent.com/mpxss/ubuntu-server-tool/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/mpxss/ubuntu-server-tool/main/toool.py -o toool && \
+chmod +x toool && \
+sudo mv toool /usr/local/bin/toool && \
 toool
+
