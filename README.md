@@ -21,5 +21,5 @@
 
 ### **روش 1: خودکار (1 خط)**
 ```bash
-curl -fsSL https://raw.githubusercontent.com/YOUR_USERNAME/ubuntu-server-tool/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/mpxss/ubuntu-server-tool/main/install.sh | bash
 toool
