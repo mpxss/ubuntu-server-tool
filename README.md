@@ -17,9 +17,9 @@
 | 10 | Disable Ping | - | ضد Ping |
 | 11 | htop | - | مانیتورینگ سیستم |
 
-## 🚀 **نصب (2 روش)**
+## 🚀 **نصب**
 
-### **روش 1: خودکار (1 خط)**
+### **روش 1: خودکار **
 ```bash
 curl -fsSL https://raw.githubusercontent.com/mpxss/helpbox/main/helpbox.py -o helpbox && \
 chmod +x helpbox && \
