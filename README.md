@@ -23,6 +23,6 @@
 ```bash
 curl -fsSL https://raw.githubusercontent.com/mpxss/helpbox/main/helpbox.py -o helpbox && \
 chmod +x helpbox && \
-sudo mv toool /usr/local/bin/helpbox && \
+sudo mv helpbox /usr/local/bin/helpbox && \
 helpbox
 
