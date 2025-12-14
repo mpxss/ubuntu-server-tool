@@ -21,8 +21,8 @@
 
 ### **روش 1: خودکار (1 خط)**
 ```bash
-curl -fsSL https://raw.githubusercontent.com/mpxss/helpbox/main/toool.py -o toool && \
-chmod +x toool && \
-sudo mv toool /usr/local/bin/toool && \
-toool
+curl -fsSL https://raw.githubusercontent.com/mpxss/helpbox/main/helpbox.py -o helpbox && \
+chmod +x helpbox && \
+sudo mv toool /usr/local/bin/helpbox && \
+helpbox
 
